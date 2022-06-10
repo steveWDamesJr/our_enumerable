@@ -1,62 +1,73 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Our Enumerable
 
-> Description the project.
+In this project you see how to use a module inside a class. We create a class MyList and a module MyEnumerable. Our module MyEnumerable implements a subset of the functionality of Enumerable. Built with RUBY
+
+
+Enjoy!
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- Terminal
+- IRB
+- Rubocop (linters)
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]() (Project will have none)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Install
 
-### Setup
+In your terminal, navigate to your current directory and run this code
 
-### Install
+`https://github.com/steveWDamesJr/our_enumerable.git`
 
-### Usage
+Locate the directory in your file explorer
 
-### Run tests
+`cd our_enumerable`
 
-### Deployment
+Install Rubocop
 
+`bundle install`
 
+## Run Linters:
+
+### To run rubocop we use:
+`rubocop`
+
+### To autocorrect offenses with rubocop we use:
+`rubocop --auto-correct-all` or
+`rubocop -A`
+
+Have fun using a subset of the functionality of Enumerable within a module inside a class!
 
 ## Authors
 
-👤 **Author1**
+👤 **NEMWEL BONIFACE**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Nemwel-Boniface ](https://github.com/Nemwel-Boniface)
+- Twitter: [@nemwel_bonie](https://twitter.com/nemwel_bonie)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/)
 
-👤 **Author2**
+👤 **STEVE W DAMES JR**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/steveWDamesJr)
+- Twitter: [@twitterhandle](https://twitter.com/Steve88312331)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/steve-w-dames-jr/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/steveWDamesJr/our_enumerable/issues).
 
 ## Show your support
 
