@@ -1,4 +1,6 @@
+require_relative 'myEnumerable'
 class Mylist
+  include MyEnumerable
   def initialize(*list)
     @list = list
   end  def each
